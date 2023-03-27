@@ -11,8 +11,8 @@
       "tech"
     ],
     "stack": "container",
-    "website": "https//telegram.dog/Midukki_RoBoT",
-    "repository": "https://github.com/PR0FESS0R-99/Midukki-RoBoT",
+    "website": "https://t.me/+IZ5pLjA69wsyMDM9",
+    "repository": "https://t.me/+IZ5pLjA69wsyMDM9",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -131,7 +131,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Your Support chat url or Your Link [with https:// or https://t.me/] Don't use @",
-            "value": "https://t.me/Mo_Tech_YT",
+            "value": "https://t.me/TG_NewMovies",
             "required": false
         }
     },
