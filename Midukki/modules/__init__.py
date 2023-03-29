@@ -246,7 +246,7 @@ class vars(object):
             button()("➕️ Add Me To Your Group ➕️", url=f"https://t.me/{Bot_Username}?startgroup=new")
             ],[
             button()("Support", url="https://t.me/NM_Chats"),
-            button()("Updates",url="https://t.me/TG_NewMovies")
+            button()("Updates",url="https://t.me/+IZ5pLjA69wsyMDM9")
             ],[
             button()("Help", callback_data="maincb+help_cb"),
             button()("About", callback_data="maincb+about_cb")
