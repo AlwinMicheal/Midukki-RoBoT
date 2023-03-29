@@ -11,8 +11,8 @@
       "tech"
     ],
     "stack": "container",
-    "website": "https://t.me/+IZ5pLjA69wsyMDM9",
-    "repository": "https://t.me/+IZ5pLjA69wsyMDM9",
+    "website": "https://t.me/NM_Archive",
+    "repository": "https://t.me/TG_NewMovies",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
