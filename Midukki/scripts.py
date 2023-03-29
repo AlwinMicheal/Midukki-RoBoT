@@ -1,9 +1,7 @@
 START_TXT = """
 Hello 👋 {mention} 
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
-
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
+I'm <b>{bot}</b> ✨ I'm Pᴏᴏᴊᴀ Hᴇɢᴅᴇ ◢ ◤ or you can call me as EvaMaria Bot.Its easy to use me; just add me to your group as admin, thats all, i will provide movies there.
 
 Join <b><a href=https://t.me/TG_NewMovies>my news channel</a></b> to get information on all the latest updates
 """
