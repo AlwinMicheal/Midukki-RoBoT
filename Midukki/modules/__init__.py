@@ -245,8 +245,8 @@ class vars(object):
         keyword = [[
             button()("➕️ Add Me To Your Group ➕️", url=f"https://t.me/{Bot_Username}?startgroup=new")
             ],[
-            button()("Support", url="https://t.me/+sv5flNs7yew1OTk1"),
-            button()("Updates",url="https://t.me/Mo_Tech_YT")
+            button()("Support", url="https://t.me/NM_Chats"),
+            button()("Updates",url="https://t.me/TG_NewMovies")
             ],[
             button()("Help", callback_data="maincb+help_cb"),
             button()("About", callback_data="maincb+about_cb")
@@ -279,11 +279,11 @@ class vars(object):
         ]]
 
     about_buttons = [[
-        button()("Support", url="https://t.me/Mo_Tech_YT"),
-        button()("Source", url="https://t.me/+sv5flNs7yew1OTk1")
+        button()("Support", url="https://t.me/NM_Chats"),
+        button()("Source", url="https://t.me/TG_NewMovies")
         ],[
-        button()("Tutorial", url="https://youtu.be/63K9xkKMBoo"),
-        button()("Insta", url="https://www.instagram.com/mrk_yt_")
+        button()("Tutorial", url="https://t.me/TG_NewMovies"),
+        button()("Channel", url="https://t.me/+IZ5pLjA69wsyMDM9")
         ],[
         button()("⬅️ Back To Home ➡️", callback_data="maincb+start_cb")
         ]]
