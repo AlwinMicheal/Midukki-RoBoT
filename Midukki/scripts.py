@@ -213,9 +213,7 @@ ADMIN_PANEL = """
 FILE_CAPTION_TXT = """{file_name}/set_cap <code>{file_name}</code>
 
 ➠➠➠ ᴄʜᴀɴɴᴇʟ : @NM_Chats
-
 ➠➠➠ ᴄʜᴀɴɴᴇʟ : @NM_Archive
-
 ➠➠➠ ᴄʜᴀɴɴᴇʟ : @TG_NewMovies"""
 
 SPELLCHECK_TXT = """Hey Mr 
