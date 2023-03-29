@@ -24,8 +24,7 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 """
 
 ABOUT_TXT = """
-[{name}](t.me/{username}) Was New Movies Auto Filter Bot
-Any one can add this bot to your group. 
+[{name}](t.me/{username}) I'm Pᴏᴏᴊᴀ Hᴇɢᴅᴇ ◢ ◤ or you can call me as New Movies.Its easy to use me; just add me to your group as admin, thats all, i will provide movies there.
 
 ➾ Developers : Hope
 ➾ Language : Python3
