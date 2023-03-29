@@ -213,7 +213,13 @@ ADMIN_PANEL = """
 - /broadcast : broadcast message
 """
 
-FILE_CAPTION_TXT = """{file_name}"""
+FILE_CAPTION_TXT = """{file_name}/set_cap <code>{file_name}</code>
+
+➠➠➠ ᴄʜᴀɴɴᴇʟ : @NM_Chats
+
+➠➠➠ ᴄʜᴀɴɴᴇʟ : @NM_Archive
+
+➠➠➠ ᴄʜᴀɴɴᴇʟ : @TG_NewMovies"""
 
 SPELLCHECK_TXT = """Hey Mr 
 Check Your Spelling In Google
