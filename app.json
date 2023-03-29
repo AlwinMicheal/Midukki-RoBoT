@@ -120,8 +120,8 @@
             "required": false
         },
         "LOADING_A": {
-            "description": "Loading First Symbol ⚪️.",
-            "value": "⚪️",
+            "description": "Loading First Symbol ..",
+            "value": ".",
             "required": false
         },
         "LOADING_B": {
